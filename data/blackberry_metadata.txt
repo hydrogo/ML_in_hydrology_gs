@@ -1,0 +1,74 @@
+Blackberry Creek at Yorkville
+Coordinates: Lat: 41.67; Lon: 88.44
+Catchment area: 182 km²
+Country: USA
+Providers: Q: USGS National Water Information System (http://waterdata.usgs.gov/nwis/); P and T: DayMet, aggregated using the USGS Geo Data Portal (Blodgett et al., 2011; Thornton et al., 2012) 
+NB: PE was computed from T data, using the Oudin's formula (Oudin et al., 2005)
+
+
+Availability of data:
+Q, P, T and PE: 01/01/1980 - 31/12/2011
+
+
+Observed non-stationarity: Growing urbanization of the catchment.
+
+Urban area for each year (0 is 0%, 1 is 100%): 
+1980,0.14316
+1981,0.1450202
+1982,0.1468804
+1983,0.1487406
+1984,0.1506008
+1985,0.152461
+1986,0.1543212
+1987,0.1561814
+1988,0.1580416
+1989,0.1599018
+1990,0.161762
+1991,0.1677793
+1992,0.1737966
+1993,0.1798139
+1994,0.1858312
+1995,0.1918485
+1996,0.1978658
+1997,0.2038831
+1998,0.2099004
+1999,0.2159177
+2000,0.221935
+2001,0.242573
+2002,0.263211
+2003,0.283849
+2004,0.304487
+2005,0.325125
+2006,0.345763
+2007,0.366401
+2008,0.387039
+2009,0.407677
+2010,0.428
+
+
+Complete period: 01/01/1982 - 31/12/2011
+
+Calibration periods: 
+P1: 01/01/1982 - 31/12/1987
+P2: 01/01/1988 - 31/12/1993
+P3: 01/01/1994 - 31/12/1999
+P4: 01/01/2000 - 31/12/2005
+P5: 01/01/2006 - 31/12/2011
+
+
+
+
+References: 
+
+Blodgett, D.L., Booth, N.L., Kunicki, T.C., Walker, J.L., and Viger, R.J., 2011, Description and testing of the Geo Data Portal: 
+Data integration framework and Web processing services for environmental science collaboration: U.S. Geological Survey Open-File 
+Report 2011–1157, 9 p., available only at http://pubs.usgs.gov/of/2011/1157/
+
+Thornton, PE, MM Thornton, BW Mayer, N Wilhelmi, Y Wei, RB Cook 2012. Daymet: Daily surface weather on a 1 km grid for North 
+America,1980 - 2011. Acquired online (http://daymet.ornl.gov/) on 23/12/2012 from Oak Ridge National Laboratory Distributed 
+Active Archive Center, Oak Ridge, Tennessee, U.S.A. doi:10.3334/ORNLDAAC/Daymet_V2
+
+Oudin, L., Hervieu, F., Michel, C., Perrin, C., Andréassian, V., Anctil, F. and Loumagne, C., 2005. Which potential evapotranspiration 
+input for a rainfall-runoff model? Part 2 - Towards a simple and efficient PE model for rainfall-runoff modelling. Journal of Hydrology 303(1-4), 290-306.
+Link: ac.els-cdn.com/S0022169404004056/1-s2.0-S0022169404004056-main.pdf?_tid=67802f70-4905-11e2-a1f0-00000aab0f02&acdnat=1355830013_2030fdcee794a7d966a17f08a0ab2241
+
